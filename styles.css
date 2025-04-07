@@ -13,12 +13,14 @@ nav {
 
 nav > button {
     padding: 0.5em 1em;
-    border: none;
-    filter: drop-shadow(-4px 5px 13px #b0b0b0);
+    border: 1px solid #eee;
+    background-color: transparent;
 }
 nav > button:hover {
 cursor: pointer;
 background-color: pink;
+/* filter: drop-shadow(-4px 5px 10px #b0b0b0); */
+
 }
 
 .iframe {
