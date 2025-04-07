@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+main {
+    display: flex;
+    flex-direction: column;
+}
+nav {
+    border-bottom: solid 1px #eee;
+    display: flex;
+    padding: 0.5em;
+}
+
+nav > button {
+    padding: 0.5em 1em;
+}
+nav > button:hover {
+    background-color: pink;
+    border: none;
+
+}
+
+.iframe {
+    width: 100vw;
+    background-color: red;
+    /* padding: 1em; */
+}
+
+#website-container {
+    width: 100%;
+    min-height: 100vh;
+    height: 100%;
+}
