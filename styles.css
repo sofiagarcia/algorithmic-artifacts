@@ -14,12 +14,10 @@ nav {
 nav > button {
     padding: 0.5em 1em;
 }
-/* nav > button:hover {
-    background-color: pink;
-    border: none;
-    padding: 0.5em 1em;
+nav > button:hover {
+cursor: pointer;
 
-} */
+}
 
 .iframe {
     width: 100vw;
