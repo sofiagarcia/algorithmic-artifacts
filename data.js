@@ -53,7 +53,7 @@ const artists = [
   { name: "Entangled Others Studio", url: "https://entangledothers.studio/" },
   { name: "Eric Andwer", url: "https://www.andwer.xyz/" },
   { name: "Erick Calderon", url: "https://www.jeffgdavis.com/" },
-  // { name: "Erin Wajufros", url: "https://www.erinwajufos.digital/" },
+  { name: "Erin Wajufros", url: "https://www.erinwajufos.digital/" },
   { name: "Fahad Karim", url: "https://www.fahadkarim.com/" },
   { name: "Feider Nake", url: "https://compart.uni-bremen.de/content/4-teaching/0-sommer-20/2-think-the-image-generative-art/3-material/paper-2010-nake_paragraphs.pdf" },
   { name: "Fingacode", url: "https://www.artpoint.fr/artists/fingacode" },
@@ -198,7 +198,10 @@ const artists = [
   { name: "LaTurbo Avadon", url: "https://www.laturboavedon.com/" },
   { name: "Sara Ludy", url: "https://www.saraludy.com/" },
   { name: "Jonas Lund", url: "https://jonaslund.com/" },
-  { name: "riiiis", url: "https://riiiis.xyz/" },
+  { name: "riiiis", url: "https://riiiis.xyz/" }
+];
+
+const sources = [
   { name: "Art Blocks", url: "https://www.artblocks.io/" },
   { name: "Bright Moments", url: "https://www.brightmoments.io/" },
   { name: "Book of Shaders", url: "https://thebookofshaders.com/" },
